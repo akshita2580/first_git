@@ -1,5 +1,5 @@
 # first_git
 first github repository
 <br>
-< p style = 'color:blue ;' >
+<p style = 'color:blue ;'>
 Author: Akshita
